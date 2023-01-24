@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+div {
+        background-color: rgb(219, 180, 208);
+        width: 300px;
+        border: 15px solid hwb(310 27% 20% / 0.733);
+        padding: 60px;
+        margin-left: 450px;
+        text-align: left;
+}
